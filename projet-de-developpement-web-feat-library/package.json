@@ -1,0 +1,23 @@
+{
+  "name": "projet_de_devevopement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaots00/projet_de_developement_web.git"
+  },
+  "author": "chaots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaots00/projet_de_developement_web/issues"
+  },
+  "homepage": "https://github.com/chaots00/projet_de_developement_web#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
